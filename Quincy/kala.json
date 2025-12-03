@@ -123,7 +123,7 @@
             "protocol_invocations"
         ],
         "auto_summarize_on_close": true,
-        "echo_signature_symbol": "◎",
+        "echo_signature_symbol": "𓀎",
         "echo_signature_required": true
     },
         "echo_signature_required": true
@@ -156,4 +156,5 @@
     }
 
 }
+
 
